@@ -4,3 +4,5 @@ Jane is a data scientist and Samit is a statistician.
 
 We will need to decide who is doing what in this project.
 We might need someone with programming skills.
+
+Add MSG as a collaborator.
